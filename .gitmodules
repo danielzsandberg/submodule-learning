@@ -1,0 +1,3 @@
+[submodule "rubikscore"]
+	path = rubikscore
+	url = https://github.com/danielzsandberg/rubikscore.git
